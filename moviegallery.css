@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Lobster&family=Noto+Sans+JP&family=Rubik+Gemstones&family=Rubik+Vinyl&display=swap');
+body{
+    background-color: black;
+}
+h2
+{
+    text-align: center;
+    background-color:blueviolet
+}
+div{
+    width:18%;
+    height: 700px;
+    background-color: black;
+    border: blueviolet 5px solid;
+    float:left;
+    border-radius:25px;
+    padding:10px;
+    position: relative;
+}
+img{
+    width:100%;
+    height: 200px;
+}
+h3
+{
+    color:blueviolet;
+    text-align: center;
+}
+p
+{
+    color: white;
+    font-family: 'Lobster', cursive;;
+}
+.col
+{
+    width:308px;
+    height: 50px;
+    top:600px;
+    border-radius: 50px;
+    
+    background-color: aqua;
+    color: blueviolet;
+    position: absolute;
+
+
+
+}

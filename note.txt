@@ -1,0 +1,13 @@
+css  - cascading style sheet
+--------
+1-inline css
+2-internal css
+3-external css
+inline 
+-----
+
+selectors
+--------
+tagname
+id selector  #
+class selector .
